@@ -12,7 +12,7 @@ Hi! My name is Shehzad Hussain 😊
 ### Socials
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/shehzad-hussain-762030213//">
+  <a href="linkedin.com/in/shehxadhussain">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
