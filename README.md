@@ -1,7 +1,7 @@
 Hi! My name is Shehzad Hussain 😊
 ========================================================================================================================================
 
-🌍  I am a Front-end Developer and UI UX Designer.
+🌍  Senior Front-end Developer and UI UX Designer.
 <br/>
 
 ### Skills
